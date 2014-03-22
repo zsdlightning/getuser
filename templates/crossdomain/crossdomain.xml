@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE cross-domain-policy SYSTEM "http://www.adobe.com/xml/dtds/cross-domain-policy.dtd">
+<!-- Policy file for xmlsocket://socks.mysite.com -->
+<cross-domain-policy>
+<allow-access-from secure="true" domain="c4e4.rcac.purdue.edu"/>
+<allow-access-from secure="true" domain="dev.water-hub.org"/>
+<allow-access-from secure="true" domain="ssg-prod2.rcac.purdue.edu"/>
+<allow-access-from secure="false" domain="localhost" to-ports="*"/>
+<allow-access-from secure="true" domain="swatshare-dev.rcac.purdue.edu"/>
+<allow-access-from secure="true" domain="swatshare.rcac.purdue.edu"/>
+</cross-domain-policy>
